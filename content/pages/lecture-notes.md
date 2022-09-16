@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains selected presentations of topics covered during
+  the lecture sessions.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on the student's work with the provided
+  files for the same.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -42,7 +44,7 @@ Brian Kardon
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-"Ignition of a Confined Plasma" (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 23c5af2e-b40d-cf43-2eda-90062884f299 "PDF - 2.1 MB" %}})
+"Ignition of a Confined Plasma" ({{% resource_link 23c5af2e-b40d-cf43-2eda-90062884f299 "PDF - 2.1 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Katie Stanchak
